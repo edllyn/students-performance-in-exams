@@ -12,6 +12,7 @@ Resolução do desafio Kaggle(https://www.kaggle.com/datasets/spscientist/studen
 Utilizei as seguintes bibliotecas do Python: numpy, pandas, matplotlib e seaborn.
 
 ## Conclusão
+Foquei nas notas de matemática pois tiveram a maior variação;
 
 Os homens tiraram uma nota maior em matemática;
 
